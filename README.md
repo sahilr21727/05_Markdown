@@ -1,3 +1,10 @@
+| **Author :** | Ali Raza                    |
+|--------------|-----------------------------|
+| **Course :** | MLOps                       |
+| **Module :** | Markdown             |
+| **Email :**  | sahilir21727@gmail.com      |
+
+
 # Markdown Learning
 
 ## Word block
