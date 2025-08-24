@@ -38,9 +38,9 @@ ___Ali Raza___
 3. item3
 
 ## Hyperlink
-[LinkedIn](linkedin.com/in/aliraza~pk)
+[LinkedIn](https://www.linkedin.com/in/aliraza~pk/)
 
-[LinkedIn]:linkedin.com/in/aliraza~pk
+[LinkedIn]:https://www.linkedin.com/in/aliraza~pk/
 [Here][LinkedIn] is the link for my LinkedIn profile
 
 
